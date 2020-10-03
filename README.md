@@ -1,4 +1,4 @@
-# Robert Swanson Repository Index
+# Robert Swanson Portfolio
 
 ## [School Portfolio](https://bitbucket.org/rswanson3141/privateportfolio/src/master/) (private repo)
 
@@ -37,6 +37,22 @@ This was an attempt to take the JavaFX project, and implement a chess engine tha
 This was a personal project of mine that I worked on in 2018 that involved creating a robot from 3D printed parts, which was controlled by a Raspberry Pi Zero W. I created an [instructable](https://www.instructables.com/id/3D-Printed-Raspberry-Pi-Zero-Robot/) that describes the creation process and the operation of the robot.
 
 The frame was designed in blender, the robot-side code used *python* and was controlled by an iOS app (written in *Swift*) that served as the remote controller. This app connected to the raspberry pi via a socket to send instructions. It also connected to a service running on the pi that streamed a video signal from the mounted camera. The app could control movement with either a GUI joystick, or with accelerometers.
+
+## [Rideshare Multi-tier Web App](https://github.com/robert-swanson/RideSharePlatform)
+<img src="rideshare.png" alt="pibot" height="300" align="right" />
+
+
+This was a group project for Multi-Tiered Web Design that implemented a model view controller architecture. It was intended to serve as a platform to connect driving students with those who need a ride home.
+
+It used a PostgreSQL database which interfaced with a hapi server using objection and knex. The front end was implemented in Vue and Vuetify.
+
+## [Python Grader](https://repo.cse.taylor.edu/dfletche/python-grader)
+
+This was a project belonging to a couple of upperclassmen that I joined for a few weeks during the summer of 2019. It followed a similar architecture as my ride share project did. I implemented several back-end security features as well as several user interface features.
+
+## [Health Data Analysis](https://github.com/robert-swanson/HealthData)
+
+This was a project I did for Intro to Data science. I took data collected from my Apple Watch over the last few years, exported it, and parsed it with this R script, which then analyzed for correlation between different health characteristics, particularly those relating to quality and quantity of sleep.
 
 ## [CLI Time Tracking Service](https://github.com/robert-swanson/TimeTrackingService)
 
