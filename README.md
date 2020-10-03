@@ -8,9 +8,13 @@ This repo contains up-to-date examples of my coding style as well as represents 
 
 ## [JavaFX Chess](https://github.com/robert-swanson/Chess)
 
+<img src="chess.png" alt="chess" style="zoom:25%;" />
+
 This was a personal project of mine during the summer of 2017. It offers a fully functional chess user interface as well as a customizable chess engine. The interface offered piece animations, board editing (totally not for cheating with a real game of chess), and helpful graphical indicators. The engine implemented the minimax algorithm, which could be customized from a GUI interface to implement alpha-beta pruning, iterative deepening, a killer heuristic, and transposition tables.
 
 *Disclaimer: I wrote this code in high school and it follows no semblance of good coding practice, please look at more recent projects to get a feel for my current coding style.*
+
+
 
 ## [Java Neural Network](https://github.com/robert-swanson/JavaNeuralNetworkLibrary)
 
@@ -28,6 +32,8 @@ This was an attempt to take the JavaFX project, and implement a chess engine tha
 
 ## [Raspberry Pi Robot](https://github.com/robert-swanson/PiBot)
 
+<img src="pibot.jpeg" alt="pibot" style="zoom:25%;" />
+
 This was a personal project of mine that I worked on in 2018 that involved creating a robot from 3D printed parts, which was controlled by a Raspberry Pi Zero W. I created an [instructable](https://www.instructables.com/id/3D-Printed-Raspberry-Pi-Zero-Robot/) that describes the creation process and the operation of the robot.
 
 The frame was designed in blender, the robot-side code used *python* and was controlled by an iOS app (written in *Swift*) that served as the remote controller. This app connected to the raspberry pi via a socket to send instructions. It also connected to a service running on the pi that streamed a video signal from the mounted camera. The app could control movement with either a GUI joystick, or with accelerometers.
@@ -43,5 +49,7 @@ This is a tool to track time usage by starting, ending, and labeling timers. It 
 This was a *Swift* project I did in 2019 for one of my classes that implemented a *SQLite* database and basic GUI to offer basic contacts tracking functionality.
 
 ## [Monopoly Currency Tracking IOS App](https://github.com/robert-swanson/MonopolyPal)
+
+<img src="monopoly.png" alt="monopoly" style="zoom:25%;" />
 
 This was a personal project I did way back in 2016 when I was first learning *Swift* and iOS development in Xcode. It was intended to be used as replacement for the bank when playing the board game *Monopoly*. It offered a GUI that allowed users to perform actions (eg Pass Go) and it would both show each players balance, and track the history of the game.
