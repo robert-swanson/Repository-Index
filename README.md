@@ -1,5 +1,7 @@
 # Robert Swanson Portfolio
 
+This document serves as the collection point for all my Computer Science work.
+
 ## [School Portfolio](https://bitbucket.org/rswanson3141/privateportfolio/src/master/) (private repo)
 
 This is a private repository on Bitbucket because it contains answers to homework assignments for many classes and my professors preferred I didn't publicly share them. **To receive access email me at `robert_swanson@taylor.edu` and I will add you as a read-only collaborator.** You must have a BitBucket account  for me to do this.
