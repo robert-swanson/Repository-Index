@@ -8,7 +8,7 @@ This repo contains up-to-date examples of my coding style as well as represents 
 
 ## [JavaFX Chess](https://github.com/robert-swanson/Chess)
 
-<img src="chess.png" alt="chess" style="zoom:25%;" />
+<img src="chess.png" alt="chess" align="right" height="300"/>
 
 This was a personal project of mine during the summer of 2017. It offers a fully functional chess user interface as well as a customizable chess engine. The interface offered piece animations, board editing (totally not for cheating with a real game of chess), and helpful graphical indicators. The engine implemented the minimax algorithm, which could be customized from a GUI interface to implement alpha-beta pruning, iterative deepening, a killer heuristic, and transposition tables.
 
@@ -32,7 +32,7 @@ This was an attempt to take the JavaFX project, and implement a chess engine tha
 
 ## [Raspberry Pi Robot](https://github.com/robert-swanson/PiBot)
 
-<img src="pibot.jpeg" alt="pibot" style="zoom:25%;" />
+<img src="pibot.jpeg" alt="pibot" height="300" align="right" />
 
 This was a personal project of mine that I worked on in 2018 that involved creating a robot from 3D printed parts, which was controlled by a Raspberry Pi Zero W. I created an [instructable](https://www.instructables.com/id/3D-Printed-Raspberry-Pi-Zero-Robot/) that describes the creation process and the operation of the robot.
 
@@ -50,6 +50,6 @@ This was a *Swift* project I did in 2019 for one of my classes that implemented 
 
 ## [Monopoly Currency Tracking IOS App](https://github.com/robert-swanson/MonopolyPal)
 
-<img src="monopoly.png" alt="monopoly" style="zoom:25%;" />
+<img src="monopoly.png" alt="monopoly" height="300" align="right" />
 
 This was a personal project I did way back in 2016 when I was first learning *Swift* and iOS development in Xcode. It was intended to be used as replacement for the bank when playing the board game *Monopoly*. It offered a GUI that allowed users to perform actions (eg Pass Go) and it would both show each players balance, and track the history of the game.
