@@ -37,7 +37,9 @@ This was an attempt to take the JavaFX project, and implement a chess engine tha
 The frame was designed in blender, the robot-side code used *python* and was controlled by an iOS app (written in *Swift*) that served as the remote controller. This app connected to the raspberry pi via a socket to send instructions. It also connected to a service running on the pi that streamed a video signal from the mounted camera. The app could control movement with either a GUI joystick, or with accelerometers.
 
 ## [Rideshare Multi-tier Web App](https://github.com/robert-swanson/RideSharePlatform)
-<img src="rideshare.png" alt="pibot" width="300" align="right" /> This was a group project for Multi-Tiered Web Design that implemented a model view controller architecture. It was intended to serve as a platform to connect driving students with those who need a ride home.
+<img src="rideshare.png" alt="pibot" width="300" align="right" />*By request of my professor, this repo will be private until the end of the semester*
+
+This was a group project for Multi-Tiered Web Design that implemented a model view controller architecture. It was intended to serve as a platform to connect driving students with those who need a ride home.
 
 It used a PostgreSQL database which interfaced with a hapi server using objection and knex. The front end was implemented in Vue and Vuetify.
 
