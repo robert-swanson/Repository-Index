@@ -2,9 +2,9 @@
 
 This document serves as the collection point for all my Computer Science work.
 
-## [School Portfolio](https://bitbucket.org/rswanson3141/privateportfolio/src/master/) (private repo)
+## [School Portfolio](https://github.com/robert-swanson/taylor-portfolio) 
 
-This is a private repository on Bitbucket because it contains answers to homework assignments for many classes and my professors preferred I didn't publicly share them. **To receive access email me at `robert_swanson@taylor.edu` and I will add you as a read-only collaborator.** You must have a BitBucket account  for me to do this.
+This repo is a copy of the full repository located [here](https://bitbucket.org/rswanson3141/privateportfolio/src/master/), which is a private repository on Bitbucket because it contains answers to homework assignments for many classes and my professors preferred I didn't publicly share them. **To receive access to the full repo, email me at `robert_swanson@taylor.edu` and I will add you as a read-only collaborator.** You must have a BitBucket account  for me to do this.
 
 This repo contains up-to-date examples of my coding style as well as represents the majority of my programming efforts during my college years.
 
