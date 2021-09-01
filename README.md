@@ -6,11 +6,17 @@ This document serves as the collection point for all my Computer Science work.
 
 This repo is a copy of the full repository located [here](https://bitbucket.org/rswanson3141/privateportfolio/src/master/), which is a private repository on Bitbucket because it contains answers to homework assignments for many classes and my professors preferred I didn't publicly share them. **To receive access to the full repo, email me at `robert_swanson@taylor.edu` and I will add you as a read-only collaborator.** You must have a BitBucket account  for me to do this.
 
-This repo contains up-to-date examples of my coding style as well as represents the majority of my programming efforts during my college years.
+## [Research: College Course Scheduling](https://github.com/robert-swanson/taylor-portfolio/tree/master/cos452%263-research)
+
+Project for “Research 1” & “Research 2” (spring & fall 2021) looking into the college course scheduling problem. Read the [literature survey](https://github.com/robert-swanson/taylor-portfolio/blob/master/cos452%263-research/documents/Survey_on_College_Course_Scheduling_Algorithms.pdf) and spring semester [state of research paper](https://github.com/robert-swanson/taylor-portfolio/blob/master/cos452%263-research/documents/Research_I_Archive_Paper-2.pdf), and look at the [DSL and evaluator prototype](https://github.com/robert-swanson/Preference-Specification-Language/tree/d3a2c2aeca26a83824b34038adfa88acdb3a7912) produced in the spring. This project involves looking into how students can express (in a generic way) their requirements and preferences for their “four” year plan. Beyond that, it hopes to look into automatically generating 4 year plans that optimize according to those preferences.
+
+## [ChessParty IOS App](https://github.com/vermillingua/Chess-Party)
+
+<img src="chess-party.png" alt="chess" align="right" width="400"/>This is an ongoing collaboration with [Daniël du Preez](https://github.com/AfricanRunner)  started in January 2021 to develop an IOS chess app that can facilitate variants of chess involving differing numbers of players (for example 2v2 team play). The project utilizes the SwiftUI framework and supports iOS, iPadOS, and MacOS. I have developed the application Views and ViewModels, and done some work on the Models, and will look into adding Game Center multiplayer functionality.  Daniël has focused on the chess logic models and is currently looking into supporting the UCI protocol to support external chess engines. 
 
 ## [JavaFX Chess](https://github.com/robert-swanson/Chess)
 
-<img src="chess.png" alt="chess" align="right" width="300"/> This was a personal project of mine during the summer of 2017. It offers a fully functional chess user interface as well as a customizable chess engine. The interface offered piece animations, board editing (totally not for cheating with a real game of chess), and helpful graphical indicators. The engine implemented the minimax algorithm, which could be customized from a GUI interface to implement alpha-beta pruning, iterative deepening, a killer heuristic, and transposition tables.
+<img src="chess.png" alt="chess" align="right" width="300"/>This was a personal project of mine during the summer of 2017. It offers a fully functional chess user interface as well as a customizable chess engine. The interface offered piece animations, board editing (totally not for cheating with a real game of chess), and helpful graphical indicators. The engine implemented the minimax algorithm, which could be customized from a GUI interface to implement alpha-beta pruning, iterative deepening, a killer heuristic, and transposition tables.
 
 *Disclaimer: I wrote this code in high school and it follows no semblance of good coding practice, please look at more recent projects to get a feel for my current coding style.*
 
@@ -32,7 +38,7 @@ This was an attempt to take the JavaFX project, and implement a chess engine tha
 
 ## [Raspberry Pi Robot](https://github.com/robert-swanson/PiBot)
 
-<img src="pibot.jpeg" alt="pibot" width="300" align="right" /> This was a personal project of mine that I worked on in 2018 that involved creating a robot from 3D printed parts, which was controlled by a Raspberry Pi Zero W. I created an [instructable](https://www.instructables.com/id/3D-Printed-Raspberry-Pi-Zero-Robot/) that describes the creation process and the operation of the robot.
+<img src="pibot.jpeg" alt="pibot" width="300" align="right" />This was a personal project of mine that I worked on in 2018 that involved creating a robot from 3D printed parts, which was controlled by a Raspberry Pi Zero W. I created an [instructable](https://www.instructables.com/id/3D-Printed-Raspberry-Pi-Zero-Robot/) that describes the creation process and the operation of the robot.
 
 The frame was designed in blender, the robot-side code used *python* and was controlled by an iOS app (written in *Swift*) that served as the remote controller. This app connected to the raspberry pi via a socket to send instructions. It also connected to a service running on the pi that streamed a video signal from the mounted camera. The app could control movement with either a GUI joystick, or with accelerometers.
 
@@ -45,7 +51,7 @@ It used a PostgreSQL database which interfaced with a hapi server using objectio
 
 ## [Python Grader](https://repo.cse.taylor.edu/dfletche/python-grader)
 
-This was a project belonging to a couple of upperclassmen that I joined for a few weeks during the summer of 2019. It followed a similar architecture as my ride share project did. I implemented several back-end security features as well as several user interface features.
+This was a project belonging to a couple of upperclassmen that I joined for a few weeks during the sumer of 2019. It followed a similar architecture as my ride share project did. I implemented several back-end security features as well as several user interface features.
 
 ## [Health Data Analysis](https://github.com/robert-swanson/HealthData)
 <img src="health.png" width="300" align="right"/>This was a project I did for Intro to Data science. I took data collected from my Apple Watch over the last few years, exported it, and parsed it with this R script, which then analyzed for correlation between different health characteristics, particularly those relating to quality and quantity of sleep.
