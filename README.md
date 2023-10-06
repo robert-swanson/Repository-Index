@@ -8,7 +8,9 @@ This repo is a copy of the full repository located [here](https://bitbucket.org/
 
 ## [Research: College Course Scheduling](https://github.com/robert-swanson/Four-Year-Plan-Evaluation-System)
 
-Project for “Research 1” & “Research 2” (spring & fall 2021) looking into the college course scheduling problem. Read the [literature survey](https://github.com/robert-swanson/taylor-portfolio/blob/master/cos452%263-research/documents/Survey_on_College_Course_Scheduling_Algorithms.pdf) and spring semester [state of research paper](https://github.com/robert-swanson/taylor-portfolio/blob/master/cos452%263-research/documents/Research_I_Archive_Paper-2.pdf), and look at the [DSL and evaluator prototype](https://github.com/robert-swanson/Preference-Specification-Language/tree/d3a2c2aeca26a83824b34038adfa88acdb3a7912) produced in the spring. This project involves looking into how students can express (in a generic way) their requirements and preferences for their “four” year plan. Beyond that, it hopes to look into automatically generating 4 year plans that optimize according to those preferences.
+[Final Paper](https://github.com/robert-swanson/Four-Year-Plan-Evaluation-System/blob/main/documents/Paper.pdf)
+
+Project for “Research 1” & “Research 2” (spring & fall 2021) looking into the college course scheduling problem. Read the [literature survey](https://github.com/robert-swanson/Four-Year-Plan-Evaluation-System/blob/main/documents/Literature-Survey.pdf) and spring semester [state of research paper](https://github.com/robert-swanson/Four-Year-Plan-Evaluation-System/blob/main/documents/Spring-Archive-Paper.pdf), and look at the [DSL and evaluator prototype](https://github.com/robert-swanson/Preference-Specification-Language/tree/d3a2c2aeca26a83824b34038adfa88acdb3a7912) produced in the spring. This project involves looking into how students can express (in a generic way) their requirements and preferences for their “four” year plan. Beyond that, it hopes to look into automatically generating 4 year plans that optimize according to those preferences.
 
 ## [ChessParty IOS App](https://github.com/vermillingua/Chess-Party)
 
