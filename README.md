@@ -14,7 +14,7 @@ Project for “Research 1” & “Research 2” (spring & fall 2021) looking int
 
 ## [ChessParty IOS App](https://github.com/vermillingua/Chess-Party)
 
-<img src="chess-party.png" alt="chess" align="right" width="400"/>This is an ongoing collaboration with [Daniël du Preez](https://github.com/AfricanRunner)  started in January 2021 to develop an IOS chess app that can facilitate variants of chess involving differing numbers of players (for example 2v2 team play). The project utilizes the SwiftUI framework and supports iOS, iPadOS, and MacOS. I have developed the application Views and ViewModels, and done some work on the Models, and will look into adding Game Center multiplayer functionality.  Daniël has focused on the chess logic models and is currently looking into supporting the UCI protocol to support external chess engines. 
+<img src="chess-party.png" alt="chess" align="right" width="400"/>This is a collaboration with [Daniël du Preez](https://github.com/AfricanRunner)  started in January 2021 to develop an IOS chess app that can facilitate variants of chess involving differing numbers of players (for example 2v2 team play). The project utilizes the SwiftUI framework and supports iOS, iPadOS, and MacOS. I have developed the application Views and ViewModels, and done some work on the Models, and will look into adding Game Center multiplayer functionality.  Daniël has focused on the chess logic models and is currently looking into supporting the UCI protocol to support external chess engines. 
 
 ## [JavaFX Chess](https://github.com/robert-swanson/Chess)
 
